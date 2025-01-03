@@ -141,12 +141,14 @@ The data for this project was sourced from reliable and open datasets, including
 
 - **Images**:  
   Below are images that represent how various columns, like **confirmed cases**, **deaths**, and **vaccines**, were handled and cleaned:
-  - ![Confirmed Cases Cleaning](path/to/confirmed_cases_image.png)
-  - ![Deaths Column Cleaning](path/to/deaths_image.png)
-  - ![Vaccines Column Cleaning](path/to/vaccines_image.png)
+  - ![Confirmed Cases Cleaning](confirmed_cases_image.png)
+  - ![Deaths Column Cleaning](vaccination_cleaning_image.png)
+  - ![Vaccines Column Cleaning](null_values_image.png)
+  - ![Vaccines Column Cleaning](vaccines_ffill.png)
 
 ## Data Validation
-  - ![Data Validation](path/to/vaccines_image.png)
+  - ![Data Validation](data_validation.png)
+  - **source**: [WHO](https://data.who.int/dashboards/covid19/cases?n=c)
 
 ## Key Visualizations
 

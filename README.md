@@ -61,3 +61,20 @@ Countries with higher population density have a higher number of COVID-19 cases,
 Vaccination efforts significantly reduce COVID-19 death rates by preventing severe infections and fatalities in vaccinated populations.
 
 
+## Data Sources
+The data for this project was sourced from reliable and open datasets, including:
+
+1. **Worldwide Country-Level COVID Data**  
+   - Source: [Covid19 Datahub](https://covid19datahub.io/articles/data.html)
+
+2. **COVID-OWID Dataset**  
+   - Source: [COVID-OWID on Kaggle](https://www.kaggle.com/datasets/shiv28/covidowid)
+
+3. **COVID Vaccination vs. Mortality Dataset**  
+   - Source: [Kaggle](https://www.kaggle.com/datasets/sinakaraji/covid-vaccination-vs-death)
+
+4. **World Population by Country 2024 Dataset**  
+   - Source: [Kaggle](https://www.kaggle.com/datasets/dataanalyst001/world-population-by-country-2024)
+
+
+

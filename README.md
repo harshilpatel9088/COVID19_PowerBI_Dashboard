@@ -163,6 +163,13 @@ The data for this project was sourced from reliable and open datasets, including
 3. **Vaccination Rates vs. Daily Deaths**  
    This chart depicts the relationship between daily vaccination rates (green line) and daily deaths (blue line) over time. It shows that as vaccination efforts increased during 2021, the average daily deaths began to decline significantly, particularly after peak vaccination periods. This supports the hypothesis that vaccination efforts effectively reduced COVID-19 death rates.
    - ![Vaccination Rates vs. Deaths](vaccination_vs_deaths_image.png)
+  
+## Dashboard
+- ![Dashboard 1](Covid_Trends.png)
+- ![Dashboard 2](Covid_Demographics.png)
+- ![Dashboard 3](Covid_Vaccines.png)
+- ![Dashboard 4](Covid_Forecast.png)
+
 ## Key Findings
 
 - **Fluctuations in Deaths and Cases**:  
